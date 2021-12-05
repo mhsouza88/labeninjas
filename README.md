@@ -9,7 +9,7 @@
  
  
  <h2> ⚛️ﾠSobre</h2>
- <p>Projeto feito em grupo durante o bootcamp fullstack web da <a href="https://www.labenu.com.br/" target="_blank">Labenu</a>. O Labeninjas é um portal inspirado no <a href="https://www.getninjas.com.br/" target="_blank">GetNinjas</a>, onde as pessoas podem postar anúncios requerendo e/ou oferecendo serviços. É possível adicionar o seu próprio anúncio no site e visualizá-lo na lista de serviços. O usuário também pode adicionar anúncios ao carrinho e realizar uma compra, onde é exibido o valor total. O sistema utiliza uma API própria da Labenu. Na parte de documentos, é possível visualizar os wireframes do projeto, uma demonstração das fontes e cores, e uma documentação detalhada de uma entrega final à um cliente fictício.
+ <p>Projeto feito em grupo durante o bootcamp fullstack web da <a href="https://www.labenu.com.br/" target="_blank">Labenu</a>. O Labeninjas é um portal inspirado no <a href="https://www.getninjas.com.br/" target="_blank">GetNinjas</a>, onde as pessoas podem postar anúncios requerendo e/ou oferecendo serviços. É possível adicionar o seu próprio anúncio no site e visualizá-lo na lista de serviços. O usuário também pode adicionar anúncios ao carrinho e realizar uma compra, onde é exibido o valor total. O sistema utiliza uma API própria da Labenu. Na parte de <a href="https://github.com/mhsouza88/labeninjas/tree/main/docs" target="_blank">documentos</a>, é possível visualizar os wireframes do projeto, uma demonstração das fontes e cores, e uma documentação detalhada de uma entrega final à um cliente fictício.
 </p><br/>
  
  
